@@ -13,7 +13,7 @@ package 数组.算法.滑动窗口;
  */
 public class leetcode209_长度最小的子数组 {
 }
-class Solution {
+class Solution209 {
     public int minSubArrayLen(int target, int[] nums) {
         int beginindex = 0;
         int endindex = 0;

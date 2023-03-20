@@ -11,10 +11,3 @@ package 数组.算法.滑动窗口;
 //输出：3
 //解释：可以采摘全部 3 棵树。
 
-public class leetcode904_水果成篮 {
-}
-class Solution {
-    public int totalFruit(int[] fruits) {
-
-    }
-}
