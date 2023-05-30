@@ -1,4 +1,4 @@
-/**
+package leetcode; /**
  * 119. 杨辉三角 II
  * 给定一个非负索引 rowIndex，返回「杨辉三角」的第 rowIndex 行。
  */

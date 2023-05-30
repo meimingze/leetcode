@@ -1,3 +1,5 @@
+package leetcode;
+
 public class leetcode160 {
 }
 class Solution160 {
