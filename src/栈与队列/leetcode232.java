@@ -6,11 +6,11 @@ import java.util.Stack;
  * @auther XMZ
  * @create 2023--07-下午3:39
  */
-class MyQueue {
+class MyQueue1 {
     Stack<Integer> stackIn;
     Stack<Integer> stackOut;
 
-    public MyQueue() {
+    public MyQueue1() {
         stackIn = new Stack<>();
         stackOut = new Stack<>();
     }
