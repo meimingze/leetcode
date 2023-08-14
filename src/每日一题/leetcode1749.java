@@ -1,3 +1,5 @@
+package 每日一题;
+
 public class leetcode1749 {
     public int maxSubArray(int nums[])
     {

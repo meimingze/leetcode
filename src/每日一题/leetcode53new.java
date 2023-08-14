@@ -1,3 +1,5 @@
+package 每日一题;
+
 public class leetcode53new {
     public int maxAbsoluteSum(int[] nums) {
         //找到正向的最大值
