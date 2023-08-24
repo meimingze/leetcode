@@ -7,6 +7,8 @@ import java.util.Map;
 /**
  * @auther XMZ
  * @create 2023--23-上午9:47
+ *
+ * 这道题挺难的！！！
  */
 public class leetcode1782 {
     public int[] countPairs(int n, int[][] edges, int[] queries) {
