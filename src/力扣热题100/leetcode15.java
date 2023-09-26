@@ -28,7 +28,7 @@ public class leetcode15 {
                 }
                 if(target < 0){
                     left++;
-                }else if(target == 0){
+                }else if(target == 01``){
                     res.add(Arrays.asList(nums[i],nums[right],nums[left]));
                     while(left < right && nums[left] == nums[left +1]){
                         left++;
