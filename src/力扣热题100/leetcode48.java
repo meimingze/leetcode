@@ -34,7 +34,7 @@ public class leetcode48 {
         for(int i = 1; i < height.length; i++){
             int max_left = 0;
             int max_right = 0;
-            for(int j = i -1; j >= 0; j -- ){
+                for(int j = i -1; j >= 0; j -- ){
                 if(height[j] >= max_left){
                     max_left = height[j];
                 }
